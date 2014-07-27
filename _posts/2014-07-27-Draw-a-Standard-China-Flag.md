@@ -11,7 +11,7 @@ I had written the codes to draw five-pointed star serveral days ago. So, when I 
 After hours working(pardon me if you thought I am slow). I had drawn the Great China flag, I admit that I was so excited that moment.
 
 ##ScreenShot
-![image](https://github.com/Hysteria/hysteria.github.io/blob/master/_imgs/chinaflagss.png?raw=true "ChinaFlag")
+![image](https://github.com/Hysteria/hysteria.github.io/blob/master/_imgs/chinaflagss.png?raw=true)
 
 ##Repo
 **github:** [https://github.com/Hysteria/TZFivePointedStar
