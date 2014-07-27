@@ -13,9 +13,11 @@ I am fucking disappointed about myself.I had made the fucking decision about two
 So it's very glad to say I am already back today. This fucking drawing work is inspired by the "Star level board" which using numbers of star to present the Level of soldiers I did in the game project for my current company, I just consider that why could I draw the fucking stars myself. So, here I am. After hours working, I finally draw the stars out. Thank god, I am not the fucking old to write code!
   
 Here's the screen shot for star drawing.
+
 ![image](https://github.com/Hysteria/hysteria.github.io/blob/master/_imgs/sss.png?raw=true "ScreenShot")
 
   
 Maybe I will release the ugly code later.
 
-本篇纯为英语练习加上对生活不满的愤慨吐槽！！！
+	This blog is just for English practice and complains for life!
+	本篇纯为英语练习加上对生活不满的愤慨吐槽！！！
