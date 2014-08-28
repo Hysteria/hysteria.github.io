@@ -3,8 +3,7 @@ username: Hysteria
 title: Hysteria
 email: zhouhangqing@gmail.com
 description: "iOS 应用/游戏工程师一枚，爱喵，爱吃，爱软妹纸，钟爱MOBA，浅尝RTS，已成胖纸。"
-baseurl: ""
-url: "http://hysteria.github.io"
+url: http://hysteria.github.io
 
 
 # Build settings

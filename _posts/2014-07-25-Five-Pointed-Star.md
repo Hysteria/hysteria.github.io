@@ -14,9 +14,9 @@ So it's very glad to say I am already back today. This drawing work is inspired 
   
 Here's the screen shot for star drawing.
 
-![image](https://github.com/Hysteria/hysteria.github.io/blob/master/_imgs/sss.png?raw=true "ScreenShot")
+<!--![image](https://github.com/Hysteria/hysteria.github.io/blob/master/_imgs/sss.png?raw=true "ScreenShot")-->
+![image](/assets/sss.png)
 
-  
 Maybe I will release the ugly code later.
 
 	This blog is just for English practice and complains for life!
