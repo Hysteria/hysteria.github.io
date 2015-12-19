@@ -1,11 +1,29 @@
 # Site settings
-username: Hysteria
-title: Hysteria
-email: zhouhangqing@gmail.com
-description: "iOS 应用/游戏工程师一枚，爱喵，爱吃，爱软妹纸，钟爱MOBA，浅尝RTS，已成胖纸。"
-url: http://hysteria.github.io
-
+title: Hysteria's Blog
+author: Hysteria
+description: > # this means to ignore newlines until "baseurl:"
+  "iOS 应用/游戏工程师一枚，爱喵，爱吃，爱软妹纸，钟爱MOBA，浅尝RTS，已成胖纸。"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://hysteria.github.io" # the base hostname & protocol for your site
+permalink: /:year/:month/:day/:title/
+paginate: 6
+paginate_path: "/page/:num/"
+twitter_username: ZhouTuizhi
+github_username:  Hysteria
+gems: [jekyll-paginate]
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+#permalink: pretty
+
+# # Site settings
+# username: Hysteria
+# title: Hysteria
+# email: zhouhangqing@gmail.com
+# description: "iOS 应用/游戏工程师一枚，爱喵，爱吃，爱软妹纸，钟爱MOBA，浅尝RTS，已成胖纸。"
+# url: http://hysteria.github.io
+
+
+# # Build settings
+# markdown: kramdown
+# permalink: pretty
